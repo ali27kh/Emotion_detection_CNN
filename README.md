@@ -18,7 +18,7 @@ Below is an example test where the model predicts the emotion from a grayscale i
 
 ---
 
-### Test Code Snippet
+### Test Code
 
 ```python
 from keras.preprocessing import image
