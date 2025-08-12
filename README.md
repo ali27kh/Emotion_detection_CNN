@@ -14,7 +14,6 @@ Below is an example test where the model predicts the emotion from a grayscale i
 ### Test Image  
 ![Test Image](real_test.png)
 
-*(Replace `images/test_sample.png` with the correct path to your image in your project)*
 
 ---
 
